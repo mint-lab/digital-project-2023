@@ -47,7 +47,7 @@
   * Author: 전근호
 * **Tik-Tac-Toe** [[Poster]](https://drive.google.com/file/d/1jXPpPk1_gk-C5aP4BG1WfwKtBbo1_h2b/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/1pIXmIAWcNxmZ3dTbyM8BPFrBZ7PI1rqZ/view?usp=drive_link)
   * Author: 홍은기
-* **Time-limited Tic-Tac-Toe** [[Poster]](https://drive.google.com/file/d/1HMBfviAsOH__3IXG7sqfrW91QyMn9f_V/view?usp=drive_link) [[YouTube]](https://youtu.be/MyAw0jT6R6U)
+* **Time-limited Tic-Tac-Toe** [[Poster]](https://drive.google.com/file/d/1HMBfviAsOH__3IXG7sqfrW91QyMn9f_V/view?usp=drive_link) [[YouTube]](https://youtu.be/MyAw0jT6R6U) [[Github]](https://github.com/todayoneul/logisim-evolution)
   * Author: 이규한
 * **Tic-Tac-Toe** [[Poster]](https://drive.google.com/file/d/1hx0_JE_RUQLXMAVmg2ZNkSaBU48qAJHs/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/15S0qmxZp405P0zwgMQxzocaJ0_esLA-u/view?usp=drive_link)
   * Author: 윤성빈
@@ -56,7 +56,7 @@
 
 * **Digital Yacht Dice** [[Poster]](https://drive.google.com/file/d/1pA1_0pzmFqPEMW_6DlNlCMQfK7PcBmBi/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/16gBTLZpdnIsWZe9PL8pcE-bV7quB9Hds/view?usp=drive_link)
   * Author: 고경태
-* **Number Baseball** [[Poster]](https://drive.google.com/file/d/1HqOQtlbwCDkJ4ZR182Cl1dqUWVNVArSn/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/1Pat9tpGatmU0topvGTSB7ymOSlAlIsjg/view?usp=drive_link)
+* **Number Baseball** [[Poster]](https://drive.google.com/file/d/1HqOQtlbwCDkJ4ZR182Cl1dqUWVNVArSn/view?usp=drive_link) [[Video-Multi-Play]](https://drive.google.com/file/d/1Pat9tpGatmU0topvGTSB7ymOSlAlIsjg/view?usp=drive_link) [[Video-Single-Play]](https://drive.google.com/file/d/1tMQwVR-NjNHsBns1TBhIywfR72e4os_T/view?usp=drive_link)
   * Author: 고은수
 * **구구단 게임** [[Poster]](https://drive.google.com/file/d/1kmT0FibineZgLqK-OHaYeIoFsYQ9NYHG/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/1HvVPj8am9ONuwPJkLZxVBM7HyFoFANXc/view?usp=drive_link)
   * Author: 양현모
@@ -86,7 +86,7 @@
 
 ### Minecraft and Other Tools
 
-* **4-bit ALU in Minecraft** [[Poster]](https://drive.google.com/file/d/14Oke9krkGHsdEd_UGWrISITxnsX4grXa/view?usp=drive_link) [[YouTube]](https://www.youtube.com/watch?v=oLxvbQ5HP6M)
+* **4-bit ALU in Minecraft** [[Poster]](https://drive.google.com/file/d/14Oke9krkGHsdEd_UGWrISITxnsX4grXa/view?usp=drive_link) [[YouTube1]](https://www.youtube.com/watch?v=oLxvbQ5HP6M) [[YouTube2]](https://www.youtube.com/watch?v=ZMBmDxOAIQg)
   * Author: 박효근
 * **마인크래프트로 만드는 4-bit Adder** [[Poster]](https://drive.google.com/file/d/1cpfwNngX-bdu1bOlI9yeUCoQqnf-QU44/view?usp=drive_link) [[YouTube]](https://youtu.be/rLInGZd3vJE)
   * Author: 권현욱
@@ -122,9 +122,7 @@
 * **Glitch 확인해보기** [[Poster]](https://drive.google.com/file/d/16qo2ObdNAOZmypNqsZFy3REjpzh7kIVf/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/1cvcetzOnB0aPkij3RFeMVAoLIONuCNyA/view?usp=drive_link)
   * Author: 이승원
 * **Remote Control of ESIEABot** [[Poster]](https://drive.google.com/file/d/1poDxAej0UbvDzdOinhsixG61YcbtxWpD/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/1LHeXEIqui2dvPgjUJ8YUVmQqn1O4OTqf/view?usp=drive_link)
-  * Author: 마티스 슈발리에
-* **Remote Control of ESIEABot** [[Poster]](https://drive.google.com/file/d/1bxZu-kz7ICudocasl4YgsAJBVLs5nt-X/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/1J_jp3-u0Cahg66iqN4z3MkeAl3UxhCin/view?usp=drive_link)
-  * Author: 오칸 유즈
+  * Author: 마티스 슈발리에, 오칸 유즈
 
 ### Counter and Clock
 
@@ -185,7 +183,3 @@
   * Author: 전성현
 
 ### 
-
-
-
-
