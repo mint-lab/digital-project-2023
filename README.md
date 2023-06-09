@@ -86,7 +86,7 @@
 
 ### Minecraft and Other Tools
 
-* **4-bit ALU in Minecraft** [[Poster]](https://drive.google.com/file/d/14Oke9krkGHsdEd_UGWrISITxnsX4grXa/view?usp=drive_link) [[YouTube1]](https://www.youtube.com/watch?v=oLxvbQ5HP6M) [[YouTube2]](https://www.youtube.com/watch?v=ZMBmDxOAIQg)
+* **4-bit ALU in Minecraft** [[Poster]](https://drive.google.com/file/d/14Oke9krkGHsdEd_UGWrISITxnsX4grXa/view?usp=drive_link) [[YouTube]](https://youtu.be/E5GBuyXM48U)
   * Author: 박효근
 * **마인크래프트로 만드는 4-bit Adder** [[Poster]](https://drive.google.com/file/d/1cpfwNngX-bdu1bOlI9yeUCoQqnf-QU44/view?usp=drive_link) [[YouTube]](https://youtu.be/rLInGZd3vJE)
   * Author: 권현욱
